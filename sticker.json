@@ -1,0 +1,29 @@
+    [
+        {
+            "name": "Naruto: Shippuuden",
+            "size": "3 mb",
+            "stickerid": 925,
+            "creator":"Animation | Drama | Adventure",
+            "img": "https://raw.githubusercontent.com/kstmm/a/master/main.fw.png"
+        },
+         {
+            "name": "Naruto: Shippuuden",
+             "size": "1 mb",
+            "stickerid": 926,
+            "creator":"Animation | Drama | Adventure",
+            "img": "https://raw.githubusercontent.com/kstmm/a/master/main.fw.png"
+        }, {
+            "name": "Gif Play",
+             "size": "4 mb",
+            "stickerid": 927,
+            "creator":"Animation | Drama | Adventure",
+            "img": "https://kstmm.github.io/a/927/49279742.png"
+        },{
+            "name": "Boy",
+            "size": "2 mb",
+            "stickerid": 2,
+            "creator":"Animation | Drama | Adventure",
+            "img": "https://kstmm.github.io/a/2/b1.png"
+        }
+        
+    ]
